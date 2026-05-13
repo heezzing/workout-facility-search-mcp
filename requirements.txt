@@ -1,0 +1,4 @@
+mcp
+ddgs
+requests
+beautifulsoup4
